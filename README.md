@@ -1,3 +1,7 @@
+[+] RB: Added kubectl, 
+[+] RB: optimized build layers
+
+
 ## Supported tags and respective `Dockerfile` links
 
 * [`latest` _(Dockerfile)_](https://github.com/tiangolo/docker-with-compose/blob/master/Dockerfile)
